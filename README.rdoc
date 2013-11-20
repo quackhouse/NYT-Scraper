@@ -1,1 +1,1 @@
-Super Ugly NYT Scraper
+{<img src="https://travis-ci.org/quackhouse/NYT-Scraper.png?branch=master" alt="Build Status" />}[https://travis-ci.org/quackhouse/NYT-Scraper]
